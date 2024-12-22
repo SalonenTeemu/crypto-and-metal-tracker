@@ -1,6 +1,9 @@
 # crypto-and-metal-tracker
 
-Java application for viewing cryptocurrency and metal prices implemented as a course group project.
+Java application for viewing cryptocurrency and metal prices implemented as a group project for the course COMP.SE.110 Software Design.
+It searches cryptocurrency prices and volumes from CoinGecko API and metal prices from Metals.dev API.
+The prices are displayed using JavaFX charts and tables. 
+The API key used for metal data might hit its limit soon as it has a low call limit.
 
 ## Treasure Tracker
 
